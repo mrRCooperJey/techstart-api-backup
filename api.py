@@ -8,3 +8,6 @@ def get_version():
 
 def new_local_function():
     return "Local added"
+
+def new_remote_function():
+    return "Remote added"
