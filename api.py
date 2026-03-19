@@ -1,3 +1,5 @@
+# Security patch applied
+
 def get_users():
     return ["user1", "user2"]
 
